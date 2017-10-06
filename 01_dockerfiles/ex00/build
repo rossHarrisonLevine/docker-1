@@ -1,0 +1,2 @@
+docker build -t rlevine/alpinevim .
+echo "rlevine/alpinevim built"

@@ -1,0 +1,17 @@
+{
+  "name": "hello",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ross Levine <magicbyross@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

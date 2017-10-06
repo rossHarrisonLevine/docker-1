@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  product-service:
+    build: ./02
+    volumes:
+      - ./product:/sur/src/app
+    ports:
+      - 5001:80
